@@ -1,0 +1,37 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6040462" />
+    <property name="Debug.Allow.Typing" value="true" />
+    <property name="InstalledPluginsSearchHistory" value="rename&#10;save&#10;sav&#10;sa&#10;s" />
+    <property name="KEYMAP" value="impleme" />
+    <property name="MarketplacePluginsSearchHistory" value="/sortBy:featured /sortBy:downloads&#10;/sortBy:featured&#10;save&#10;save Actions&#10;save act" />
+    <property name="NewCommitToolwindow.2" value="true" />
+    <property name="Non.Modal.Commit3" value="true" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="RD.Switch.Laf" value="true" />
+    <property name="SettingsSearchHistory" value="Enable Edit And Continue&#10;rename&#10;Whitespace inserts selected suggestion when completion popup is focused (blue selection)&#10;vcs" />
+    <property name="TeamCity.ToolWindow.Projects.splitter.proportion" value="0.43973508" />
+    <property name="Tutorials.1" value="true" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="91" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="evlsprt3.193" value="18" />
+    <property name="export.settings.path" value="M:\Temp\samu\settings.zip" />
+    <property name="file.gist.reindex.count" value="30" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="js.field.names.completion" value="false" />
+    <property name="js.opt.chain.completion" value="true" />
+    <property name="js.overrides.completion" value="true" />
+    <property name="js.var.names.completion" value="true" />
+    <property name="js.var.names.completion.kind" value="NAMES_ONLY" />
+    <property name="last_open_solution_path" value="D:/Dev/Nest_Trunk/Source" />
+    <property name="settings.code.style.selected.tab.C#" value="Tabs, Indents, Alignment" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.7.2" />
+  </component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="http://build.kms-ag.ch&amp;^%$#@samu" />
+  </component>
+</application>

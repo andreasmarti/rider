@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="12718a48-0463-4bb0-9789-059337e8ce8e" name="samuel.s.mueller@bluewin.ch">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
